@@ -232,4 +232,13 @@ def index():
 
 if __name__ == "__main__":
     socketio.run(app, debug=True)
+```
+#🧑‍💻Imagens do Hands-On
+
+![WhatsApp Image 2025-11-07 at 22 08 04 (1)](https://github.com/user-attachments/assets/510e76e9-b316-4309-afc4-b2ed8552f047)
+
+ 
+
+
+
 
